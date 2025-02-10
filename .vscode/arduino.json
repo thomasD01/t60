@@ -1,0 +1,7 @@
+{
+    "port": "/dev/ttyACM0",
+    "board": "arduino:renesas_uno:unor4wifi",
+    "programmer": "stlink",
+    "sketch": "helmet_sensor/helmet_sensor.ino",
+    "output": "helmet_sensor/build"
+}
